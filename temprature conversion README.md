@@ -1,4 +1,4 @@
-# cognifyz-task2
+# cognifyz-task2 level 1
 #temrature conversion
 temprature = input("Enter temprature value and Unit (eg: 23F,65C) : ")
 degree = int(temprature[:-1])
