@@ -1,4 +1,4 @@
-# cognifyz-task1
+# cognifyz-task1 level 1
 # Function to reverse a string
 def reverse(string):
 	string = string[::-1]
